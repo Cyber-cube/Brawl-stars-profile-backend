@@ -3,7 +3,7 @@ import cors from 'cors';
 
 const app = express();
 const corsOptions = {
-  'origin': 'https://example.com',
+  'origin': 'https://4ee167e8-c23c-4b7e-83b9-e1239efa4769-00-21w3xfpv2p914.pike.replit.dev/',
 }
 app.use(cors(corsOptions));
 
